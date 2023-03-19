@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.xuecheng</groupId>
+    <groupId>com.xuecheng</groupId>
     <artifactId>xuecheng-plus-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>xuecheng-plus-parent</name>
@@ -19,7 +19,7 @@
         <spring-cloud.version>Hoxton.SR9</spring-cloud.version>
         <!--<org.mapstruct.version>1.3.1.Final</org.mapstruct.version>-->
         <org.mapstruct.version>1.5.2.Final</org.mapstruct.version>
-        <spring-cloud-alibaba.version>2.2.6.RELEASE</spring-cloud-alibaba.version>
+        <spring-cloud-alibaba.version>2.2.0.RELEASE</spring-cloud-alibaba.version>
         <org.projectlombok.version>1.18.8</org.projectlombok.version>
         <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
         <fastjson.version>1.2.83</fastjson.version>
@@ -33,8 +33,7 @@
         <commons-lang3.version>3.10</commons-lang3.version>
         <okhttp.version>4.8.1</okhttp.version>
         <swagger-spring-boot-starter.version>1.9.0.RELEASE</swagger-spring-boot-starter.version>
-        <elasticsearch.version>7.12.1</elasticsearch.version>
-
+        <elasticsearch.version>7.12.1</elasticsearch.version>   <!--7.12.1有bug-->
     </properties>
 
 <dependencyManagement>

@@ -13,7 +13,7 @@ import org.springframework.beans.factory.annotation.Autowired;
  * 课程计划 前端控制器
  * </p>
  *
- * @author itcast
+ * @author lxc
  */
 @Slf4j
 @RestController

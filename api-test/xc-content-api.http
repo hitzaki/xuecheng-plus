@@ -1,0 +1,8 @@
+### 分页查询
+POST http://{{gateway_host}}/content/course/list?pageNo=2&pageSize=10
+Content-Type: application/json
+
+{
+  "auditStatus": "",
+  "courseName": ""
+}

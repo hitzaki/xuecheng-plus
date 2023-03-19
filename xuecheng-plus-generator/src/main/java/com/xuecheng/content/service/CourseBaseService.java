@@ -8,8 +8,8 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 课程基本信息 服务类
  * </p>
  *
- * @author itcast
- * @since 2023-03-04
+ * @author lxc
+ * @since 2023-03-05
  */
 public interface CourseBaseService extends IService<CourseBase> {
 

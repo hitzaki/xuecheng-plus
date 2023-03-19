@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
  * 课程计划 Mapper 接口
  * </p>
  *
- * @author itcast
+ * @author lxc
  */
 public interface TeachplanMapper extends BaseMapper<Teachplan> {
 

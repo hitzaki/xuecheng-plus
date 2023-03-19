@@ -1,0 +1,2 @@
+### 删除课程计划
+DELETE {{content_host}}/content/teachplan/43
